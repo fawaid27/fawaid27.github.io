@@ -1,0 +1,24 @@
+body {
+  font-family: Georgia, "Times New Roman", Times, serif;
+}
+.jumbotron {
+  font-family: cursive;
+  font-size: 10px;
+  padding-top: 6rem;
+  background-image: url("img/IMG_20210607_173511.jpg");
+  background-attachment: fixed;
+  background-size: cover;
+  background-position: 0 -100px;
+}
+.jumbotron h1,
+.jumbotron p {
+  color: #e2edff;
+  text-shadow: 1px 1px 10px rgba(0, 0, 0, 0.5);
+}
+
+#projects {
+  background-color: #e2edff;
+}
+section {
+  padding-top: 3rem;
+}
